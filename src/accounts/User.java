@@ -11,7 +11,7 @@ public class User extends Account
 
     public User(String username, String password)
     {
-        super(username, password, 100, AccountType.USER);
+        super(username, password, AccountType.USER);
         this.money = 10000;
     }
 

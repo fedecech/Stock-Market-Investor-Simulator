@@ -1,1 +1,1 @@
-{"accounts":[{"username":"test","password":"test","maxStocks":100,"type":"USER"}]}
+{"accounts":[{"username":"test","password":"test","type":"ADMIN"}]}

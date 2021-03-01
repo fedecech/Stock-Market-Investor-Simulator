@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dbc006c-be86-46c3-a727-108a775eb8d1" name="Default Changelist" comment="" />
+    <list default="true" id="2dbc006c-be86-46c3-a727-108a775eb8d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.json" beforeDir="false" afterPath="$PROJECT_DIR$/database.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stock Market Investor Simulator/accounts/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stock Market Investor Simulator/accounts/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stock Market Investor Simulator/accounts/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stock Market Investor Simulator/accounts/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stock Market Investor Simulator/screens/Home.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stock Market Investor Simulator/screens/Home.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stock Market Investor Simulator/stocks/Stock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stock Market Investor Simulator/stocks/Stock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stock Market Investor Simulator/stocks/StockProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Stock Market Investor Simulator/utils/StockMarketInvestorSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Stock Market Investor Simulator/utils/StockMarketInvestorSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accounts/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accounts/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accounts/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accounts/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stocks/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stocks/Stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stocks/StockProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/StockMarketInvestorSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/StockMarketInvestorSimulator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,10 +28,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1owNzB9zdStnX3p5jePOLFyW94i" />
   <component name="ProjectViewState">
@@ -28,6 +48,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -73,22 +94,26 @@
       <screen x="0" y="25" width="1440" height="805" />
     </state>
     <state x="100" y="125" width="1240" height="605" key="DiffContextDialog/0.25.1440.805@0.25.1440.805" timestamp="1614368754774" />
-    <state width="1398" height="254" key="GridCell.Tab.0.bottom" timestamp="1614553846395">
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1614620842785">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="254" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1614553846395" />
-    <state width="1398" height="254" key="GridCell.Tab.0.center" timestamp="1614553846394">
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.25.1440.805@0.25.1440.805" timestamp="1614620842785" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.25.1440.807@0.25.1440.807" timestamp="1614619506210" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1614620842785">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="254" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1614553846394" />
-    <state width="1398" height="254" key="GridCell.Tab.0.left" timestamp="1614553846394">
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.25.1440.805@0.25.1440.805" timestamp="1614620842785" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.25.1440.807@0.25.1440.807" timestamp="1614619506209" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1614620842784">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="254" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1614553846394" />
-    <state width="1398" height="254" key="GridCell.Tab.0.right" timestamp="1614553846394">
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.25.1440.805@0.25.1440.805" timestamp="1614620842784" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.25.1440.807@0.25.1440.807" timestamp="1614619506209" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1614620842785">
       <screen x="0" y="25" width="1440" height="805" />
     </state>
-    <state width="1398" height="254" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1614553846394" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.25.1440.805@0.25.1440.805" timestamp="1614620842785" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.25.1440.807@0.25.1440.807" timestamp="1614619506210" />
     <state width="1398" height="254" key="GridCell.Tab.1.bottom" timestamp="1614553846396">
       <screen x="0" y="25" width="1440" height="805" />
     </state>

@@ -2,18 +2,13 @@ package utils;
 
 import accounts.Account;
 import accounts.AccountType;
+import accounts.Admin;
 import accounts.User;
 import com.google.gson.Gson;
 import java.io.*;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * Write a description of class utils.Database here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Database
 {
     private List<Account> accounts;
@@ -32,7 +27,9 @@ public class Database
         for(int i=0; i<this.accounts.size(); i++){
             if(this.accounts.get(i).getUsername().equals(username)){
                 if (this.accounts.get(i).getType().equals(AccountType.USER)){
-                    return (accounts.get(i));
+                    return new User(accounts.get(i).getUsername(), accounts.get(i).getPassword());
+                }else if(this.accounts.get(i).getType().equals(AccountType.ADMIN)){
+                    return new Admin(accounts.get(i).getUsername(), accounts.get(i).getPassword());
                 }
             }
         }
